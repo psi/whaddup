@@ -1,0 +1,8 @@
+Package: whaddup
+Title: Says whaddup
+Version: 0.1
+Authors@R: "JD Harrington <jd@jdharrington.net> [aut, cre]"
+Description: Still just says whaddup
+Depends: R (>= 3.1.2)
+License: WTFPL
+LazyData: true
