@@ -1,3 +1,3 @@
 whaddup <- function(name="jerk") {
-  cat(paste("Whaddup, ", name, "!", sep=""))
+  return(paste("Whaddup, ", name, "!", sep=""))
 }
